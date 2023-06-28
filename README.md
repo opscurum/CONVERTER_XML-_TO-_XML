@@ -1,5 +1,4 @@
 # XML Parser
-
 This Python script provides functionality for parsing XML data from a specified URL and generating a new XML file. The script utilizes the `lxml` library to handle XML parsing and manipulation.
 
 ## Prerequisites
